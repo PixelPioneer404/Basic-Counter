@@ -32,7 +32,7 @@ A sleek, interactive counter application built with HTML, CSS (Tailwind), and va
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://pixelpioneer404.github.io/Basic-Counter/) *(Replace with your GitHub Pages URL)*
+[View Live Demo](https://basic-counter-pixelpioneer.vercel.app)
 
 ## 🛠️ Technologies Used
 
